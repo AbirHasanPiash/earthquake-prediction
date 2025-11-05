@@ -10,3 +10,26 @@ I conducted research on earthquake prediction and developed several machine lear
 
 ## Research Paper (PDF)
 [Earthquake Prediction using Machine Learning](https://drive.google.com/file/d/1NFQGYDzY6jI0Go8fcwvVvdap0uDyOAue/view?usp=sharing)
+
+## Key Features
+- End-to-end machine learning pipeline for earthquake magnitude and significance prediction
+- Data preprocessing with feature scaling and encoding
+- Geological interpretation of model predictions with feature importance analysis
+- Utilization of supervised learning models (e.g., Random Forest, XGBoost)
+- Hyperparameter tuning for optimal model performance
+- Visualizations of earthquake magnitude predictions and performance metrics (e.g. MAE, MSE and R2)
+   
+## Technologies Used
+- **Python**
+- **Scikit-learn**
+- **Tensorflow**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Google Colab**
+
+## Author
+**Md. Abir Hasan Piash**  
+📧 abirhasanpiash@gmail.com 
+🔗 [LinkedIn](https://linkedin.com/in/a-h-piash)
