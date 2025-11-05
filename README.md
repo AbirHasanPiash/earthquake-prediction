@@ -26,7 +26,6 @@ I conducted research on earthquake prediction and developed several machine lear
 - **Pandas**
 - **NumPy**
 - **Matplotlib**
-- **Seaborn**
 - **Google Colab**
 
 ## Author
